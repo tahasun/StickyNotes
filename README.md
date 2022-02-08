@@ -1,6 +1,6 @@
 # Sticky Notes
 
-Web application to create your notes and organize them.
+Web application for creating and organizing notes.
 
 ### Features
 - Add a note
