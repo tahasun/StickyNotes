@@ -27,7 +27,7 @@ function App() {
     },
     {
       "id": 3,
-      "title": "Weekly Grocery Shopping",
+      "title": "Weekend Grocery Shopping",
       "desc": "",
       "date": "7/2/2022",
       "category": "home"
